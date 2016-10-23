@@ -3,4 +3,5 @@
 3-: testleri yap
 4-: repoya aktar
 
-5-  yeni notlarým
+
+6- bu son calisma
