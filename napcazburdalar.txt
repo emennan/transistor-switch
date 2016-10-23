@@ -2,3 +2,5 @@
 2-: programa aktar 
 3-: testleri yap
 4-: repoya aktar
+
+5-  yeni notlarým
